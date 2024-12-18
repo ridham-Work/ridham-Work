@@ -1,12 +1,17 @@
-- 👋 Hi, I’m @ridham-savaliya
-- 👀 I’m interested in Marvelous Web Desiging ...
-- 🌱 I’m currently learning Front-End...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+👋 Hi, I’m Ridham-Savaliya
+🔥 Full-Stack Developer | Web Enthusiast | Tech Explorer | From India 🇮🇳
+Welcome to my GitHub profile! I'm Ridham, a passionate full-stack developer who loves bringing ideas to life through code. 🚀
 
-<!---
-ridham-Work/ridham-Work is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+👀 What I'm into:
+Marvelous Web Designing: I love creating visually stunning and user-friendly websites that leave an impression! 🎨
+Full-Stack Development: Crafting powerful and scalable web applications with both front-end and back-end magic! ⚙️
+🌱 What I'm learning:
+Currently diving deep into Front-End Development (React, Tailwind CSS, and everything that makes UI shine)! 💡
+Expanding my skills in Back-End technologies (Node.js, Express, MongoDB, etc.) to build robust server-side architectures. 🖥️
+💞️ I'm looking to collaborate on:
+Exciting full-stack web projects where I can grow and bring value.
+Opportunities to work with like-minded developers and contribute to open-source.
+📫 How to reach me:
+Email: ridhamsavaliya09.rw@gmail.com 📧
+LinkedIn: @ridham-savaliya 🔗
+Twitter: @ridham_savaliya 🐦
